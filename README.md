@@ -21,4 +21,5 @@ For this project, I decided to make my random message a "post-work plan". This w
 * a chore to complete around the apartment
 * what dinner to have
 * a video game to play
+
 I made three arrays with a list of options to do. My function then takes these arrays, chooses a random index for each, and prints to the console a plan for the user.
